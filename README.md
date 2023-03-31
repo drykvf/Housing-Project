@@ -49,4 +49,4 @@ Next step we would like to revaluate our model to account for more variability a
 Additionally we would like to put together a guide showing how each feature impact house sale prices.
 
 # For More Information
-See the full analysis in the ![Jupyter Notebook](./https://github.com/drykvf/Housing-Project/blob/main/Final_notebook.ipynb)
+See the full analysis in the ![Jupyter Notebook](./Final_notebook.ipynb)
