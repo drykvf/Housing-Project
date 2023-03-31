@@ -47,6 +47,6 @@ School districts 400 and 405 have higher house prices.
 Next step we would like to revaluate our model to account for more variability and reduce the impact ourliers have on our model Looking further we want analyze individual features to obtain a broader understanding on predicted house price vs actual house price. Such as locations with affordable housing.
 
 Additionally we would like to put together a guide showing how each feature impact house sale prices.
-We should include
+
 # For More Information
-See the full analysis in the 
+See the full analysis in the ![Jupyter Notebook](./https://github.com/drykvf/Housing-Project/blob/main/Final_notebook.ipynb)
