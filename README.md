@@ -8,7 +8,8 @@ From: Alvaro Rodriguez, Keanan Ginell & Hera K
 For this project, we will be using multiple linear regression modeling to analyze the features used in determing house sales and prices in King's County, WA.
 
 # Business Problem
-Our team has been contracted by a real-estate company to help them improve the service they offer their customers. Specifically, we will be identifying features that impact house prices in Washington County. 
+![Kings County Map](https://images.squarespace-cdn.com/content/v1/5bf9022b5cfd79f62c905004/1609870747266-GHRDDHV2KP9W0JSUBFF4/HRAMap.jpeg)
+Our team has been contracted by a real-estate company to help them improve the service they offer their customers. Specifically, we will be identifying features that impact house prices in King's County, WA. 
 
 # Data
 We used the King's County Housing Data to pull all the relevant features for determining the given price of the houses in that area. We also used an updated housing data that includes school district zones, mean household income, proximity to highest traffic,  proximity to hazardous water storage, and proximity to hazardous waste.
@@ -28,3 +29,4 @@ The main features we will be looking at are:
 # Next Steps
 
 # For More Information
+See the full analysis in the 
