@@ -25,7 +25,7 @@ The main features we will be looking at are:
 The predicted sale price of a house and the actual sale price of the house given the above features has a correlation of about .8069, or 80.69%. 
 ![House Sale Price v. Prdicted Sale Price](https://github.com/drykvf/Housing-Project/blob/main/Group_plots/saleprice_predictedprice.png)
 
-
+The plot shows the features ranked by their estimated impact on the house price. The Y-axis represents the percentage in mean. 
 ![Features v. House Price](https://github.com/drykvf/Housing-Project/blob/main/Group_plots/Features.png)
 
 
@@ -35,6 +35,6 @@ The predicted sale price of a house and the actual sale price of the house given
 # Conclusions
 
 # Next Steps
-
+We should include
 # For More Information
 See the full analysis in the 
