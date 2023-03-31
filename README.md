@@ -25,10 +25,12 @@ The main features we will be looking at are:
 The predicted sale price of a house and the actual sale price of the house given the above features has a correlation of about .8069, or 80.69%. 
 ![House Sale Price v. Prdicted Sale Price](https://github.com/drykvf/Housing-Project/blob/main/Group_plots/saleprice_predictedprice.png)
 
-The plot shows the features ranked by their estimated impact on the house price. The Y-axis represents the percentage in mean. 
+The plot shows the features ranked by their estimated impact on the house price. The Y-axis represents the percentage in mean. Waterfront would be the highest impacting feature to price given aqll the other features.
 ![Features v. House Price](https://github.com/drykvf/Housing-Project/blob/main/Group_plots/Features.png)
 
 
+
+The plot shows the features based on school district compared to the median house prices. The school disticts 400 and 405 have the highest amount of median home prices compared to the rest of the other school districts.
 ![School District v. House Price](https://github.com/drykvf/Housing-Project/blob/main/Group_plots/schooldistricts_s.png)
 
 
