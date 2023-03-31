@@ -3,7 +3,7 @@ Project Phase2 for Flatiron
 
 
 # Overview
-For this proect, we will use multiple linear regression modeling to analyze house sales in a North-Western County.
+For this proect, we will be using multiple linear regression modeling to analyze the features used in determing house sales and prices in King's County, WA.
 
 # Business Problem
 
